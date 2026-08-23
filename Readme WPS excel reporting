@@ -1,0 +1,318 @@
+# 🍔 Swiggy Sales Analysis Dashboard | Advanced Excel
+
+## 📊 Project Overview
+
+This project presents an **interactive Swiggy Sales Analysis Dashboard** developed using **Advanced Excel techniques** to analyze sales, orders, ratings, customer activity, and geographic performance.
+
+The dashboard transforms raw restaurant and food-order data into meaningful business insights through **PivotTables, PivotCharts, KPI cards, calculated fields, filters, and interactive dashboard components**.
+
+The objective of this project is to demonstrate how an analyst can transform a large raw dataset into a **management-ready business dashboard** that supports quick and data-driven decision-making.
+
+---
+
+
+
+## 🎯 Business Objective
+
+The primary objective is to analyze Swiggy-style food-order data and answer important business questions such as:
+
+* How much total revenue was generated?
+* How many orders were recorded?
+* What is the average customer rating?
+* Which months generated the highest sales?
+* Which cities contribute the most revenue?
+* Which states have the highest sales?
+* Which days of the week generate higher sales?
+* How does quarterly performance change?
+* Which food categories contribute most to sales?
+* How many customer ratings were recorded?
+
+---
+
+## 🗂️ Dataset
+
+The dataset contains approximately **50,000+ records** and includes restaurant and food-order information.
+
+### Key Fields
+
+| Field           | Description                                 |
+| --------------- | ------------------------------------------- |
+| State           | State where the restaurant/order is located |
+| City            | City associated with the restaurant/order   |
+| Order Date      | Date of the order                           |
+| Restaurant Name | Restaurant associated with the order        |
+| Location        | Restaurant/location information             |
+| Category        | Food/category classification                |
+| Dish Name       | Name of the food item                       |
+| Price           | Price/value used for sales analysis         |
+| Rating          | Customer rating                             |
+| Rating Count    | Number of ratings associated with the item  |
+
+---
+
+## 🛠️ Tools & Techniques Used
+
+### Tools
+
+* **Microsoft Excel concepts**
+* **WPS Spreadsheet** for implementation
+* Advanced Excel / Spreadsheet techniques
+
+### Techniques
+
+* Data Cleaning & Preparation
+* Excel Tables
+* PivotTables
+* PivotCharts
+* KPI Cards
+* Calculated Fields
+* Helper Columns
+* Date & Time Analysis
+* Sales Aggregation
+* Sorting & Ranking
+* Interactive Filters
+* Dashboard Design
+* Conditional Formatting
+* Business KPI Analysis
+
+---
+
+# 📌 Dashboard KPIs
+
+The dashboard focuses on four major performance indicators:
+
+### 💰 Total Sales
+
+Measures the overall sales value generated from the dataset.
+
+### ⭐ Average Rating
+
+Measures the average customer rating across the available records.
+
+### 📦 Total Orders
+
+Represents the number of records/orders used for the analysis based on the dataset structure.
+
+### 👥 Rating Count
+
+Represents the aggregated rating activity available in the dataset.
+
+---
+
+# 📈 Dashboard Analysis
+
+## 1. Monthly Sales Trend
+
+A line chart is used to analyze how sales change throughout the months.
+
+**Business Question:**
+
+> Which months demonstrate stronger or weaker sales performance?
+
+This can help identify seasonal patterns and changes in monthly demand.
+
+---
+
+## 2. Weekly Sales Trend
+
+Sales are analyzed across different weekdays to identify high-performing and low-performing days.
+
+**Business Question:**
+
+> Which days of the week generate the highest sales?
+
+This can support operational planning and promotional decisions.
+
+---  
+
+## 3. Top 5 Cities by Sales
+
+The dashboard ranks cities based on total sales.
+
+**Business Question:**
+
+> Which cities contribute the most to overall sales?
+
+This helps identify high-value markets.
+
+---
+
+## 4. Top 5 States by Sales
+
+A state-level comparison highlights the strongest geographical markets.
+
+**Business Question:**
+
+> Which states generate the highest sales?
+
+This provides a broader view of regional business performance.
+
+---
+
+## 5. Sales by Food Category
+
+The dashboard analyzes sales contribution across food categories.
+
+**Business Question:**
+
+> Which food categories contribute most to sales?
+
+This can help identify popular product segments.
+
+---
+
+## 6. Quarterly Performance
+
+Sales performance is compared across quarters.
+
+The analysis can be used to evaluate:
+
+* Sales
+* Order volume
+* Average rating
+
+**Business Question:**
+
+> Which quarter demonstrates the strongest overall performance?
+
+---
+
+# 🎛️ Interactive Dashboard
+
+The dashboard includes interactive filtering functionality for fields such as:
+
+* State
+* Month
+* Quarter
+
+These filters are intended to allow users to explore the dashboard from different business perspectives.
+
+---
+
+# 🧮 Helper Columns
+
+Additional date-based fields were created to support time-series analysis, including:
+
+* Month
+* Month Number
+* Quarter
+* Week Number
+* Weekday
+* Year
+
+These fields make it easier to group and analyze sales performance through PivotTables and PivotCharts.
+
+---
+
+# 🔍 Key Business Insights
+
+The dashboard allows stakeholders to quickly identify:
+
+* Overall sales performance
+* Monthly sales movement
+* High-performing cities
+* High-performing states
+* Weekly sales patterns
+* Quarterly performance
+* Food-category contribution
+* Customer rating activity
+
+The dashboard is designed to convert raw transactional data into **actionable business information** rather than presenting raw numbers alone.
+
+---
+
+# 📊 Dashboard Preview
+
+> Add your final dashboard screenshot here.
+
+```text
+![Swiggy Sales Analysis Dashboard](Dashboard.png)
+```
+
+For GitHub, save your screenshot as:
+
+`Dashboard.png`
+
+and place it in the same repository folder as this README.
+
+---
+
+# 📁 Repository Structure
+
+```text
+Swiggy-Sales-Analysis-Dashboard/
+│
+├── 📊 Swiggy_Sales_Dashboard.xlsx
+├── 🖼️ Dashboard.png
+├── 📄 BRD.pdf
+├── 📄 README.md
+└── 📂 Dataset/
+    └── Swiggy_Sales_Data.xlsx
+```
+
+If you don't want to upload the complete dataset because of file size or data-sharing restrictions, you can omit the dataset folder and provide a short description of the dataset instead.
+
+---
+
+# 💡 Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+* Advanced Excel
+* Data Analysis
+* Business Intelligence
+* Dashboard Development
+* Data Visualization
+* PivotTables
+* PivotCharts
+* KPI Development
+* Time-Series Analysis
+* Geographic Analysis
+* Business Reporting
+* Data Storytelling
+
+---
+
+# 🚀 Future Improvements
+
+Potential improvements for the next version include:
+
+* Power BI implementation
+* Automated data refresh
+* Dynamic KPI comparisons
+* Year-over-Year growth analysis
+* Profit and margin analysis if cost data becomes available
+* Customer segmentation
+* Restaurant-level performance analysis
+* Advanced Power Query transformation
+* Automated dashboard refresh
+
+---
+
+# 👨‍💻 Author
+
+**Arya Marale**
+
+BCA Graduate | Data Analyst Aspirant
+
+### Technical Skills
+
+`Excel` • `Power BI` • `SQL` • `Python` • `Data Visualization` • `Machine Learning`
+
+---
+
+## ⭐ Project Purpose
+
+This project was created as part of my **Data Analyst portfolio** to demonstrate practical ability in transforming raw business data into an interactive and management-friendly dashboard.
+
+The focus is not only on creating charts, but on understanding the **business questions behind the data and presenting insights in a clear, decision-oriented format**.
+
+---
+
+### 📌 Project Status
+
+**Completed ✅**
+
+**Dashboard:** Advanced Excel / WPS Spreadsheet
+**Analysis:** Sales, Orders, Ratings & Geographic Performance
+**Data:** Restaurant/Food Order Dataset
