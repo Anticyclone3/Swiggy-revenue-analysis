@@ -5,6 +5,8 @@ The goal is to uncover key performance indicators (KPIs), identify sales trends,
 
 Check out the Project :-  https://colab.research.google.com/drive/1OuapFHAMPcjiiXnwGfnQB-UB64arj6nq?usp=sharing
 
+Check out the Project in WPS :- https://ap.wps.com/cms/docs/d/cbCaeq6FCBB8UCzF
+
 Table of Contents 
 Introduction
 Dataset
