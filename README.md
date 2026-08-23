@@ -290,7 +290,8 @@ A state-level comparison highlights the strongest geographical markets.
 
 This provides a broader view of regional business performance.
 
----
+---  <img width="885" height="516" alt="image" src="https://github.com/user-attachments/assets/9ed1bb46-5ff5-4cb5-acac-51e04ae7cc87" />
+
 
 ## 5. Sales by Food Category
 
