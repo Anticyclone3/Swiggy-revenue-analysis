@@ -3,6 +3,8 @@ Swiggy Revenue Analysis
 This project performs an in-depth exploratory data analysis (EDA) and revenue analysis on a dataset of Swiggy food orders. 
 The goal is to uncover key performance indicators (KPIs), identify sales trends, understand customer behavior, and pinpoint top-performing entities (cities, restaurants, food types).
 
+Check out the Project :-  https://colab.research.google.com/drive/1OuapFHAMPcjiiXnwGfnQB-UB64arj6nq?usp=sharing
+
 Table of Contents 
 Introduction
 Dataset
@@ -35,6 +37,9 @@ Analyze sales distribution across different food types (Veg vs. Non-Veg).
 Determine top-performing cities and restaurants by sales volume.
 Visualize insights through various charts and a consolidated dashboard.
 Methodology
+
+
+<img width="1706" height="650" alt="image" src="https://github.com/user-attachments/assets/72610e96-c886-4f71-b24e-34183750d317" />
 
 
 The analysis follows a structured approach:
@@ -95,6 +100,9 @@ Dashboard Summary
 
 All key visualizations and KPIs are consolidated into a single dashboard-style cell, providing a quick and comprehensive overview of Swiggy's sales performance.
 
+<img width="1686" height="670" alt="image" src="https://github.com/user-attachments/assets/f1a90d8c-5f6d-45ca-9f26-ae818936acd3" />
+
+
 How to Run the Code
 Clone the repository:
 git clone <repository_url>
@@ -112,6 +120,9 @@ seaborn
 matplotlib
 plotly.express
 You can install them using pip:
+
+<img width="1722" height="557" alt="image" src="https://github.com/user-attachments/assets/798d85ca-1832-4cd3-b457-0cf3cd3c5eee" />
+
 
 pip install pandas numpy seaborn matplotlib plotly-express openpyxl
 (Note: openpyxl is needed to read .xlsx files with pandas)
