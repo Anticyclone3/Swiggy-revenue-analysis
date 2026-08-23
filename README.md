@@ -1,7 +1,7 @@
 Swiggy Revenue Analysis
 This project performs an in-depth exploratory data analysis (EDA) and revenue analysis on a dataset of Swiggy food orders. The goal is to uncover key performance indicators (KPIs), identify sales trends, understand customer behavior, and pinpoint top-performing entities (cities, restaurants, food types).
 
-Table of Contents
+Table of Contents 
 Introduction
 Dataset
 Goals of the Analysis
